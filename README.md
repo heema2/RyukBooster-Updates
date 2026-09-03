@@ -53,6 +53,7 @@ This repository is **not** the app itself. It is the **live updates feed** that 
 | 🏠 **Main project** | https://github.com/heema2/RyukBooster |
 | ⬇️ **Latest installer** | https://github.com/heema2/RyukBooster/releases/download/latest-installer/RyukBooster-Setup-latest.exe |
 | 📡 **Latest manifest** | https://github.com/heema2/RyukBooster-Updates/releases/latest/download/manifest.json |
+| 📝 **Changelog** | [CHANGELOG.md](CHANGELOG.md) |
 | 🏷️ **All update releases** | https://github.com/heema2/RyukBooster-Updates/releases |
 
 ---
