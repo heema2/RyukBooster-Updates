@@ -149,3 +149,7 @@ Catalog-only releases update the app list without forcing a full reinstall.
     Â· Â© 2026 Ryuk
   </sub>
 </p>
+
+---
+
+**Ryuk Developments** · Studio hub: [heema2/Ryuk-Dev](https://github.com/heema2/Ryuk-Dev) · Discord: [Message Ryuk](https://discord.com/users/198843596558958601)
