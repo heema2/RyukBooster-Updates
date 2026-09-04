@@ -4,6 +4,22 @@ All notable updates to **Ryuk Booster** — app releases and catalog refreshes.
 
 Users can also download installers from [heema2/RyukBooster](https://github.com/heema2/RyukBooster/releases) and follow the live update channel at [heema2/RyukBooster-Updates](https://github.com/heema2/RyukBooster-Updates/releases).
 
+## [1.5.7] — 2026-09-04
+
+- **Icons hot-update:** catalog/app publishes ship `icons.zip`; clients store icons under `%AppData%\RyukBooster\Icons`
+- **Ryuk Admin:** Browse… imports PNG/ICO into `Assets\Icons` and sets the icon path
+- **RyukPlayer** → GitHub v1.4.4 setup, NSIS silent `/S`, refreshed icon
+- **Azan Desktop** → GitHub v2.2.0 setup, NSIS silent `/S`, new `azan_desktop.png` icon
+- Icon cache clears on catalog reload; AppData icons load first
+
+### Catalog v11 — 2026-09-04
+
+- RyukPlayer + Azan Desktop: new download URLs, `/S` silent args, correct `Icons/*.png` paths
+
+## [1.5.6] — 2026-09-03
+
+- About profile card: **Open GitHub** button → https://github.com/heema2
+
 ### Catalog v10 — 2026-09-04
 
 - [Changed] Azan Desktop (azan_desktop): icon: "Icons/azan_desktop.png" → "Icons/azan_desktop_icon"
@@ -19,10 +35,6 @@ Users can also download installers from [heema2/RyukBooster](https://github.com/
 ### Catalog v7 — 2026-09-03
 
 - [Changed] Azan Desktop v2 (azan_desktop): downloadUrl: "https://drive.google.com/file/d/1JIfs7YOgJAby93cRy2jNOpS-..." → "https://github.com/heema2/Azan-Desktop/releases/download/..."
-
-## [1.5.6] — 2026-09-03
-
-- About profile card: **Open GitHub** button → https://github.com/heema2
 
 ## [1.5.5] — 2026-09-03
 
